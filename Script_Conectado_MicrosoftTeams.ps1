@@ -1,7 +1,4 @@
-﻿
-
-
-Clear-Host
+﻿Clear-Host
 Write-Host "Activar Antiausente Teams...`nScript creado por Carlos Ramirez" 
 $WShell = New-Object -com "Wscript.Shell" 
 Add-Type -AssemblyName System.Windows.Forms
